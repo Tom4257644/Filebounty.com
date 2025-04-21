@@ -6,10 +6,22 @@ This is an idea I really love and wish I had the time to fully commit to. The co
 
 Very simple concept—a sort of lower-stakes freelance job website where jobs are open on a first-come, first-served basis, and there is no commitment required from the person offering the work.
 
-This idea stems from the availability of knowledge and computers in third-world or lower-income countries, but a lack of employment opportunities. The hope is that those working high-paying tech jobs might be willing to give away 60 minutes of their time for something like $4 USD—because they might get paid $100 USD an hour—thus benefiting both parties.
+This idea stems from the availability of knowledge and computers in third-world or lower-income countries, but a lack of employment opportunities. The hope is that those working high-paying tech jobs might be willing to give away something like $4 USD for 60 minutes of someone else's work on a 'bounty' they posted, because they get paid something like $100 USD an hour—thus benefiting both parties.
 
 In reality, there are numerous challenges: how to handle exchanges of funding, how to drive traffic from both sides, and not to mention, difficult legal hurdles.
 
 The project is currently live, but not used so there are unlikely to be any live bounties, if you want to see them I recommend posting some with the provided account.
 
-Filebounty.com
+[Filebounty.com
+](https://filebounty.com/index.php?page=homepage)
+
+
+
+<img src="https://imgur.com/bRuKqiM.png" height="40%" width="80%" alt="Gameplay"/>
+<img src="https://imgur.com/UpDUbnD.png" height="40%" width="80%" alt="Gameplay"/>
+<img src="https://imgur.com/Ax0lV98.png" height="40%" width="80%" alt="Gameplay"/>
+<img src="https://imgur.com/4pMztX0.png" height="40%" width="80%" alt="Gameplay"/>
+<br />
+<br />
+
+- [Back to projects](https://github.com/Tom4257644/Tom4257644.github.io/blob/main/README.md)

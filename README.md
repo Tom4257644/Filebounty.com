@@ -10,7 +10,7 @@ This idea stems from the availability of knowledge and computers in third-world 
 
 In reality, there are numerous challenges: how to handle exchanges of funding, how to drive traffic from both sides, and not to mention, difficult legal hurdles.
 
-The project is currently live, but not used so there are unlikely to be any live bounties, if you want to see them I recommend posting some with the provided account.
+The project is currently not live as server fees get expensive for unused projects.
 
 [Filebounty.com
 ](https://filebounty.com/index.php?page=homepage)
